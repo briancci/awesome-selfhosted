@@ -86,7 +86,7 @@ See [Contributing](.github/CONTRIBUTING.md).
   - [Static site generators](#static-site-generators)
   - [Task management/To-do lists](#task-managementto-do-lists)
   - [Ticketing](#ticketing)
-  - [URL Shorteners](#url-shorteners)
+  - [URL Shorteners](#url-shorteners)l;kjkl;
   - [VPN](#vpn)
   - [Web servers](#web-servers)
   - [Wikis](#wikis)
